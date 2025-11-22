@@ -1,0 +1,58 @@
+{
+    "My Country List": [
+        {
+            "posX": 135,
+            "posY": 137,
+            "Places to visit": [
+                {
+                    "Place location": "BC",
+                    "C Time": 0,
+                    "O Time": 0,
+                    "Place name": "Vancouver"
+                },
+                {
+                    "Place location": "ON",
+                    "C Time": 0,
+                    "O Time": 0,
+                    "Place name": "Toronto"
+                }
+            ],
+            "Rating": 8,
+            "Country name": "Canada"
+        },
+        {
+            "posX": 83,
+            "posY": 205,
+            "Places to visit": [],
+            "Rating": 5,
+            "Country name": "USA"
+        },
+        {
+            "posX": 107,
+            "posY": 300,
+            "Places to visit": [
+                {
+                    "Place location": "xxxx",
+                    "C Time": 0,
+                    "O Time": 0,
+                    "Place name": "Chapultepec"
+                },
+                {
+                    "Place location": "yyyy",
+                    "C Time": 0,
+                    "O Time": 0,
+                    "Place name": "Zocalo"
+                },
+                {
+                    "Place location": "jjkhgiuh",
+                    "C Time": 0,
+                    "O Time": 0,
+                    "Place name": "Xochimiclco"
+                }
+            ],
+            "Rating": 15,
+            "Country name": "Mexico"
+        }
+    ],
+    "Title": "My New Trip"
+}
